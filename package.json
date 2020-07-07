@@ -55,7 +55,7 @@
   ],
   "devDependencies": {
     "cross-env": "^5.1.1",
-    "electron": "^6.0.0",
+    "electron": "^9.1.0",
     "electron-builder": "^21.2.0",
     "electron-debug": "^3.0.1",
     "electron-webpack": "^2.7.4",
